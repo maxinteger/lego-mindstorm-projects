@@ -1,0 +1,14 @@
+Use pyBricks IDE or the pyBricks cli
+
+## PyBricks IDE
+
+use the [IDE site](https://code.pybricks.com/
+
+## PyBricks CLI
+
+Install:
+```sh
+pipx install pybricksdev
+```
+
+More info in the [repo](https://github.com/pybricks/pybricksdev)
